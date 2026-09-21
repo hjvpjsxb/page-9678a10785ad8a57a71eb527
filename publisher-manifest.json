@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7ce7fa31a3d90322ef636112",
+  "owner": "hjvpjsxb",
+  "repo": "page-9678a10785ad8a57a71eb527",
+  "title": "Netdiary",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9678a10785ad8a57a71eb527",
+      "a": "Netdiary",
+      "b": "机场官网线路发布页",
+      "entity": "Netdiary",
+      "brand": "Netdiary",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2eb92430fdd396b5851a57dfc6d6e5d30a53e41518568cd6b1a9bb1eb1f389e3",
+      "content": {
+        "primary_entity": "Netdiary",
+        "keyword1": "Netdiary",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，Windows、macOS、Android、iOS 与路由器各有对应配置方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求挑选套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐再出发",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，提供基础版、旗舰版与团队版三档方案。基础版每月 100GB 流量、支持 3 台设备，适合单人或小范围使用；旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版每月 1000GB 流量、支持 20 台设备，提供 VIP 专属高带宽节点与企业定制路由。按年付费可进一步降低月均成本，结合客户端文档完成订阅导入即可。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。按需选择，避免设备数量不足或流量浪费。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。轻度浏览选基础版，多设备或流媒体需求可选旗舰版及以上。",
+          "AI_FAQ_ANSWER_3": "年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，适合长期稳定使用的场景。",
+          "AI_FAQ_ANSWER_4": "Windows、macOS、Android、iOS 及路由器均有对应客户端，按设备类型选择并按文档导入订阅即可，不承诺全部平台一致兼容。",
+          "AI_FAQ_ANSWER_5": "按客户端文档添加订阅地址即可，设备数量限制以所选套餐为准；团队版还支持企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Netdiary 各套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "每月流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "年付与月付如何选择？",
+          "AI_FAQ_QUESTION_4": "哪些客户端可以导入订阅？",
+          "AI_FAQ_QUESTION_5": "如何配置订阅并管理设备？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐对比到客户端配置，三点帮助快速上手。",
+          "AI_FEATURES_TITLE": "功能特点",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版、团队版覆盖 3 至 20 台设备与 100GB 至 1000GB 月流量。",
+          "AI_FEATURE_TEXT_2": "Windows、macOS、Android、iOS 及路由器客户端按设备类型选择，依文档导入订阅。",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_FEATURE_TITLE_1": "多档套餐",
+          "AI_FEATURE_TITLE_2": "多端订阅",
+          "AI_FEATURE_TITLE_3": "灵活周期",
+          "AI_GUIDE_INTRO": "按三个步骤完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Netdiary 提供基础版、旗舰版与团队版三档海外加速方案，覆盖不同设备数量与流量需求。结合客户端文档导入订阅，即可在常用设备上使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "月付年付灵活",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与设备数量，团队版面向多设备高带宽场景；参考流量、设备数与年付价格进行对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，对比基础版、旗舰版与团队版的权益与价格。",
+          "AI_STEP_TEXT_2": "查看所选套餐对应的设备数量、流量上限与客户端适配要求，确认符合使用场景。",
+          "AI_STEP_TEXT_3": "按客户端文档添加订阅地址并完成配置，多设备场景注意套餐的设备数限制。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Netdiary 海外加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fssschs.cn",
+    "host": "fssschs.cn"
+  },
+  "file_hashes": {
+    "index.html": "1012452a7425a129167c51d8402f81db95ee1af1dfb67e0f228f3de61ed57a64",
+    "sitemap.xml": "580824e8234bb1b4a8e588aebefb75e573b254760f89f965ca0ca7d136794ce0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e6b79b736ab7141843cdb9151dc6ee135fe4edbb3120f78df588d40e066d518c",
+    "robots.txt": "6e4efb5d0dc660990fcce790c041b7375e7768b4017900061d83f30a4c11c571",
+    "a3d746fd6fbd81da074c78c5290afbfb.txt": "3bc86294eb45ab0081cdafac6b2853354d0e6af066e6e3dbf02b290e96a1d205"
+  },
+  "revision": "e40cf029b384075f9599d711e486f6f8b65d2c32bf5860adf7f42930893a8bcd"
+}
